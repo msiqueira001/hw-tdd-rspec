@@ -8,6 +8,8 @@ director" feature to RottenPotatoes.
 **NOTE: Do not clone this repo to your workspace. Fork it first, then
 **clone your fork.**
 
+[![Build Status](https://travis-ci.com/msiqueira001/hw-tdd-rspec.svg?branch=master)](https://travis-ci.com/msiqueira001/hw-tdd-rspec)
+
 Learning Goals
 --------------
 After you complete this assignment, you should be able to:
